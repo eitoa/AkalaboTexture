@@ -59,7 +59,7 @@
 §f			JOrbis by JCraft
 
 
-§7using Texture:
+§7Texture used:
 §f                      AkalaboTexture 
 §f                              by §6akalabo.com
 
