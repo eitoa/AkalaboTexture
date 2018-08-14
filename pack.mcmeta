@@ -1,6 +1,6 @@
 {
-  "pack": {
-    "pack_format": 3,
-    "description": "AkalaboTexture. serverIP:akalabo.com"
-  }
+    "pack": {
+        "description": "Azuki with Akalabo Server",
+        "pack_format": 4
+    }
 }
